@@ -1,3 +1,24 @@
+# Delicious - Recipe App
+
+Built with react and styled components
+#
+A simple and easy projects for beginners
+
+##
+
+<img width="431" alt="d1" src="https://user-images.githubusercontent.com/86062880/229042394-c1daa67f-bdeb-479e-ae60-36f97cb56fbe.png">
+
+
+#Instructions and Ingredients
+
+
+<img width="431" alt="d2" src="https://user-images.githubusercontent.com/86062880/229042571-03af4bcf-717b-4885-a868-8f6586eb421f.png">
+
+
+
+<img width="431" alt="d3" src="https://user-images.githubusercontent.com/86062880/229042714-e8d8e248-6ffd-4cc9-8e7b-3499a6453e0b.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -2,7 +2,7 @@
 
 Built with react and styled components
 #
-A simple and easy projects for beginners
+A simple and easy project for beginners
 
 ##
 
